@@ -1,0 +1,7 @@
+# Local/editor and operating-system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local gallery inventory; not used by the website
+plumbing-gallery-index.txt
